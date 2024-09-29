@@ -7,7 +7,7 @@ It is a tool or software application that allows users to convert one currency i
   <li><b>API:</b> For real-time rates, converters often fetch live data from a currency exchange API (like Free Currency Exchange Rates API).</li>
     <b>Currency Exchange API:</b> https://2024-03-06.currency-api.pages.dev/v1/currencies/usd.json
   <li><b>Mathematical Operation:<b> The formula is simple</li>
-  <h5>Converted Amount=Amount×Exchange Rate</h5> 
+  <b>Converted Amount=Amount×Exchange Rate</b> 
 </ul>
 <h3>Technology Stack:</h3>
 <ul>
